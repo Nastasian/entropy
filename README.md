@@ -19,6 +19,7 @@ The algorithm consists of:
 3) Computing dictinary **coverage** and **entropy**.
 
 **Input:** text files "corpus.txt" (a source text corpus), "test.txt" (a test sample for estimating of coverage).
+
 **Output:** text files "corpus_filt.txt", "test_filt.txt" (processed input files), "vocabulary.txt" (a dictionary with tokens), "10.txt", "15.txt", "20.txt", "25.txt" (dictionaries of n-grams), "information.txt" (a file with coverage and entropy computation results).
 re
 
