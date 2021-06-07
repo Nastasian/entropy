@@ -23,9 +23,11 @@ The algorithm consists of:
 **Output:** text files "corpus_filt.txt", "test_filt.txt" (processed input files), "vocabulary.txt" (a dictionary with tokens), "10.txt", "15.txt", "20.txt", "25.txt" (dictionaries of n-grams), "information.txt" (a file with coverage and entropy computation results).
 re
 
-*How to work with the program:*
+*How to work with the program: (macOS)*
 1) Put the binary file "Toolkit", text file renamed "corpus.txt" and test sample file renamed "test.txt" (optional) in the same folder.
-2) At the command line, go to the folder where the binary file is located. Start the program (./Toolkit). 
-3) Choose the alphabet (0 - for Cyrillic, 1 - for Latin).
-4) After the end of the program, all output files will be located in this folder.
+2) At the command line, go to the folder where the binary file is located.
+3) Specify that the file is executive (chmod 755 Toolkit_macOS) 
+4) Start the program (./Toolkit_macOS). 
+5) Choose the alphabet (0 - for Cyrillic, 1 - for Latin).
+6) After the end of the program, all output files will be located in this folder.
 
