@@ -24,7 +24,7 @@ The algorithm consists of:
 re
 
 *How to work with the program:*
-1) Put the binary file "Toolkit", text file renamed "corpus.txt" and test sample renamed "test.txt" (optional) in the same folder.
+1) Put the binary file "Toolkit", text file renamed "corpus.txt" and test sample file renamed "test.txt" (optional) in the same folder.
 2) At the command line, go to the folder where the binary file is located. Start the program (./Toolkit). 
 3) Choose the alphabet (0 - for Cyrillic, 1 - for Latin).
 4) After the end of the program, all output files will be located in this folder.
