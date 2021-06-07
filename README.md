@@ -18,6 +18,8 @@ The algorithm consists of:
 2) Compiling token and n-gram **dictionaries** (for 10-,15-,20-,25-gramms)
 3) Computing dictionary **coverage** and **entropy**.
 
+**Note:** for work with Cyrillic alphabet text files need the Windows-1251 encoding.
+
 **Input:** text files "corpus.txt" (a source text corpus), "test.txt" (a test sample for estimating of coverage).
 
 **Output:** text files "corpus_filt.txt", "test_filt.txt" (processed input files), "vocabulary.txt" (a dictionary with tokens), "10.txt", "15.txt", "20.txt", "25.txt" (dictionaries of n-grams), "information.txt" (a file with coverage and entropy computation results).
