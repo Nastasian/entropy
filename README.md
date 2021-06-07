@@ -27,7 +27,7 @@ re
 1) Put the binary file "Toolkit", text file renamed "corpus.txt" and test sample file renamed "test.txt" (optional) in the same folder.
 2) At the command line, go to the folder where the binary file is located.
 3) Specify that the file is executive (chmod 755 Toolkit_macOS) 
-4) Start the program (./Toolkit_macOS). 
+4) Start the program (./Toolkit_macOS or sudo ./Toolkit_macOS). 
 5) Choose the alphabet (0 - for Cyrillic, 1 - for Latin).
 6) After the end of the program, all output files will be located in this folder.
 
