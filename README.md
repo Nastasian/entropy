@@ -16,7 +16,7 @@ The program toolkit supports work with *Latin* and *Cyrillic* alphabets.
 The algorithm consists of:
 1) Preprocessing input text
 2) Compiling token and n-gram **dictionaries** (for 10-,15-,20-,25-gramms)
-3) Computing dictinary **coverage** and **entropy**.
+3) Computing dictionary **coverage** and **entropy**.
 
 **Input:** text files "corpus.txt" (a source text corpus), "test.txt" (a test sample for estimating of coverage).
 
