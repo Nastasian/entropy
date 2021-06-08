@@ -26,7 +26,7 @@ The algorithm consists of:
 re
 
 *How to work with the program: (macOS)*
-1) Put the binary file "Toolkit_macOS", text file with your corpus and test sample file (optional) in the same folder (or to be ready to specify the full path to your files).
+1) Put the binary file "Toolkit_macOS", text file with your corpus and test sample file (optional) in the same folder (or be ready to specify the full path to your files).
 2) At the command line, go to the folder where the binary file is located.
 3) Specify that the file is executive (chmod 755 Toolkit_macOS). 
 4) Start the program (./Toolkit_macOS or sudo ./Toolkit_macOS). 
