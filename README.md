@@ -7,7 +7,7 @@ All text **corpora** and **program toolkits** can be found on *Realeases* https:
 
 Related articles:
 1) http://asu.tgizd.ru/ru/arhiv/20171
-2) https://www.researchsquare.com/article/rs-237508/v1
+2) 10.21203/rs.3.rs-237508/v2
 
 
 **MANUAL**
