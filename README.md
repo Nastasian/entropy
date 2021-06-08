@@ -18,7 +18,7 @@ The algorithm consists of:
 2) Compiling token and n-gram **dictionaries** (for 10-,15-,20-,25-gramms)
 3) Computing dictionary **coverage** and **entropy**.
 
-**Note:** to work with Cyrillic text files, it must have the **UTF-8** or **Windows-1251** encoding.
+**Note:** to work with Cyrillic text files, it must have the **UTF-8** or **Windows-1251** encoding. Size of input file is restricted to 1.2Mb for Windows.
 
 **Input:** text file with a source corpus, a test sample for estimating of coverage (optional).
 
