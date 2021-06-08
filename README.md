@@ -29,7 +29,7 @@ re
 1) Put the binary file "Toolkit_macOS", text file with your corpus and test sample file (optional) in the same folder (or be ready to specify the full path to your files).
 2) At the command line, go to the folder where the binary file is located.
 3) Specify that the file is executive (chmod 755 Toolkit_macOS). 
-4) Start the program and specify a corpus file name and test file name (sudo ./Toolkit_macOS in.txt out.txt).
+4) Start the program and specify a corpus file name and test file name (sudo ./Toolkit_macOS in.txt out.txt).\\
   *or you can just start the program and specify files in the executive process (sudo ./Toolkit_macOS).* 
 6) Choose the alphabet (1 - for Latin, 2 - for Cyrillic (UTF-8), 2 - for Cyrillic (Windows-1251)).
 7) Enter a corpus file name.
