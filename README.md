@@ -18,18 +18,20 @@ The algorithm consists of:
 2) Compiling token and n-gram **dictionaries** (for 10-,15-,20-,25-gramms)
 3) Computing dictionary **coverage** and **entropy**.
 
-**Note:** to work with Cyrillic text files, it must have the **Windows-1251** encoding.
+**Note:** to work with Cyrillic text files, it must have the **UTF-8** or **Windows-1251** encoding.
 
-**Input:** text files "corpus.txt" (a source text corpus), "test.txt" (a test sample for estimating of coverage).
+**Input:** text file with a source corpus, a test sample for estimating of coverage (optional).
 
 **Output:** text files "corpus_filt.txt", "test_filt.txt" (processed input files), "vocabulary.txt" (a dictionary with tokens), "10.txt", "15.txt", "20.txt", "25.txt" (dictionaries of n-grams), "information.txt" (a file with coverage and entropy computation results).
 re
 
 *How to work with the program: (macOS)*
-1) Put the binary file "Toolkit", text file renamed "corpus.txt" and test sample file renamed "test.txt" (optional) in the same folder.
+1) Put the binary file "Toolkit_macOS", text file with your corpus and test sample file (optional) in the same folder (or to be ready to specify the full path to your files).
 2) At the command line, go to the folder where the binary file is located.
-3) Specify that the file is executive (chmod 755 Toolkit_macOS) 
+3) Specify that the file is executive (chmod 755 Toolkit_macOS). 
 4) Start the program (./Toolkit_macOS or sudo ./Toolkit_macOS). 
-5) Choose the alphabet (0 - for Cyrillic, 1 - for Latin).
-6) After the end of the program, all output files will be located in this folder.
-
+5) Choose the alphabet (1 - for Latin, 2 - for Cyrillic (UTF-8), 2 - for Cyrillic (Windows-1251)).
+6) Enter a corpus file name.
+7) Select if you have a test sample (1 - yes, 2 - no).
+8) If you have a test sample enter test file name.
+9) After the end of the program, all output files will be located in this folder.
