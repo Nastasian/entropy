@@ -18,7 +18,7 @@ The algorithm consists of:
 2) Compiling token and n-gram **dictionaries** (for 10-,15-,20-,25-gramms)
 3) Computing dictionary **coverage** and **entropy**.
 
-**Note:** to work with Cyrillic text files, it must have the **UTF-8** or **Windows-1251** encoding. Size of input file is restricted to 1.2Mb for Windows.
+**Note:** to work with Cyrillic text files, it must have the **Windows-1251** encoding. Size of input file is restricted to 1.2Mb for Windows.
 
 **Input:** text file with a source corpus, a test sample for estimating of coverage (optional).
 
@@ -31,7 +31,7 @@ re
 3) Specify that the file is executive (chmod 755 Toolkit_macOS). 
 4) Start the program and specify a corpus file name and test file name (sudo ./Toolkit_macOS in.txt out.txt). If you specify both file names miss 7-9 steps. 
   *Or you can just start the program and specify files in the executive process in steps 7-9 (sudo ./Toolkit_macOS).* 
-6) Choose the alphabet (1 - for Latin, 2 - for Cyrillic (UTF-8), 2 - for Cyrillic (Windows-1251)).
+6) Choose the alphabet (1 - for Latin, 2 - for Cyrillic (Windows-1251)).
 7) Enter a corpus file name.
 8) Select if you have a test sample (1 - yes, 2 - no).
 9) If you have a test sample enter test file name.
