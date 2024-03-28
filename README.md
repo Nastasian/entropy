@@ -6,7 +6,7 @@ All text **corpora** and **program toolkits** can be found on *Realeases* https:
 **The exclusive right** in the Computer Program was registred in *Rospatent* on 12 Decamber 2020 (Certificate № RU2020665906) https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=AC1A7A31-4EDF-49EB-94BE-444830BFC41F.
 
 Related articles:
-1) http://asu.tgizd.ru/ru/arhiv/20171
+1) https://doi.org/10.1134/S106456242370151X
 2) https://doi.org/10.22364/bjmc.2021.9.3.09
 
 
