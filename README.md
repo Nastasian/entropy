@@ -3,7 +3,7 @@ This project is related to PhD thesis in HSE University.
 
 All text **corpora** and **program toolkits** can be found on *Realeases* https://github.com/Nastasian/entropy/releases/.
 
-**The exclusive right** in the Computer Program was registred in *Rospatent* on 12 Decamber 2020 (Certificate № RU2020665906) https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=AC1A7A31-4EDF-49EB-94BE-444830BFC41F.
+**The exclusive right** in the Computer Programs was registred in *Rospatent* on 12 Decamber 2020 (Certificate № RU2020665906) https://fips.ru/publication-web/publications/document?type=doc&tab=PrEVM&id=AC1A7A31-4EDF-49EB-94BE-444830BFC41F and on 4 July 2022 (Certificate № 2022662474) https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2022662474&TypeFile=html.
 
 Related articles:
 1) https://doi.org/10.1134/S106456242370151X
